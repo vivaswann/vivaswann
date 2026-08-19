@@ -77,7 +77,7 @@
   <a href="https://leetcode.com/u/vivaswansingh/">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
-  <a href="[YOUR_PORTFOLIO_URL](https://portfolio-njz2myxst-vivaswanns-projects.vercel.app/)">
+  <a href="https://portfolio-njz2myxst-vivaswanns-projects.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
