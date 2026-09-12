@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Vivaswan Singh</h1>
 
 <p align="center">
-  <img
-    src="./assets/vivaswan-exe.gif"
-    width="100%"
-    alt="VIVASWAN.EXE retro run-and-gun animation">
+  <a href="https://cyber-saviour-shooter-game.vercel.app/" target="_blank">
+    <img
+      src="./assets/vivaswan-exe.gif"
+      width="100%"
+      alt="VIVASWAN.EXE retro run-and-gun animation - Click to Play">
+  </a>
 </p>
 
 <h2 align="center">ABOUT ME</h2>
