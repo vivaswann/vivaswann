@@ -38,8 +38,9 @@
   <img src="https://img.shields.io/badge/Python-06405A?style=for-the-badge&logo=python&logoColor=00E5FF">
   <img src="https://img.shields.io/badge/Bash-0B401B?style=for-the-badge&logo=gnubash&logoColor=39FF14">
   <img src="https://img.shields.io/badge/SQL-063A45?style=for-the-badge&logo=mysql&logoColor=00B8D4">
-  <img src="[https://img.shields.io/badge/React-4A3100?style=for-the-badge&logo=openjdk&logoColor=FFB000](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Rust-4A101B?style=for-the-badge&logo=rust&logoColor=FF4D6D">
+</p>
 </p>
 <h3 align="center">🛠️ TOOLS & PLATFORMS</h3>
 
@@ -48,8 +49,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
   <img src="https://img.shields.io/badge/Nmap-0B1F33?style=for-the-badge&logo=nmap&logoColor=white">
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/Ghidra-202020?style=for-the-badge&logo=ghidra&logoColor=white">
-  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
