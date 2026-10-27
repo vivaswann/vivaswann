@@ -38,9 +38,8 @@
   <img src="https://img.shields.io/badge/Python-06405A?style=for-the-badge&logo=python&logoColor=00E5FF">
   <img src="https://img.shields.io/badge/Bash-0B401B?style=for-the-badge&logo=gnubash&logoColor=39FF14">
   <img src="https://img.shields.io/badge/SQL-063A45?style=for-the-badge&logo=mysql&logoColor=00B8D4">
-  <img src="https://img.shields.io/badge/Java-4A3100?style=for-the-badge&logo=openjdk&logoColor=FFB000">
+  <img src="[https://img.shields.io/badge/React-4A3100?style=for-the-badge&logo=openjdk&logoColor=FFB000](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)">
   <img src="https://img.shields.io/badge/Rust-4A101B?style=for-the-badge&logo=rust&logoColor=FF4D6D">
-  <img src="https://img.shields.io/badge/PowerShell-123E47?style=for-the-badge&logo=powershell&logoColor=7DF9FF">
 </p>
 <h3 align="center">🛠️ TOOLS & PLATFORMS</h3>
 
