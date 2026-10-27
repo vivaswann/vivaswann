@@ -36,7 +36,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-064A78?style=for-the-badge&logo=c&logoColor=5B9BD5">
   <img src="https://img.shields.io/badge/Python-06405A?style=for-the-badge&logo=python&logoColor=00E5FF">
-  <img src="https://img.shields.io/badge/Bash-0B401B?style=for-the-badge&logo=gnubash&logoColor=39FF14">
   <img src="https://img.shields.io/badge/SQL-063A45?style=for-the-badge&logo=mysql&logoColor=00B8D4">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Rust-4A101B?style=for-the-badge&logo=rust&logoColor=FF4D6D">
